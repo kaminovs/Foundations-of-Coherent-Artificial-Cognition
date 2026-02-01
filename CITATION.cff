@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Coherent Cognition Framework — Phase I Prototype"
+message: "If you use this software, please cite the associated paper."
+authors:
+  - family-names: Kaminovs
+    given-names: Sergejs
+    orcid: "https://orcid.org/0009-0004-1711-3455"
+doi: 10.5281/zenodo.18445064
+repository-code: "https://github.com/REPLACE_WITH_REPO_LINK"
+license: MIT
