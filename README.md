@@ -69,6 +69,23 @@ These regimes arise from coherence-driven regulation rather than explicit rule p
 
 ---
 
+## 🔍 Interpretation of Results
+
+The observed behaviors illustrate three distinct coherence-regulated regimes:
+
+**1. Semantic tension under contradiction**  
+Introducing conflicting claims decreases C1 and overall coherence without causing system collapse. This demonstrates graceful degradation rather than binary failure, consistent with coherence as a stabilizing constraint.
+
+**2. Confidence decay under lack of evidence**  
+Unsupported high-confidence claims trigger a drop in C2, leading to progressive confidence reduction. This shows how hallucination-like nodes become structurally unstable under coherence regulation.
+
+**3. Identity stability under task variation**  
+Despite changes in task context, identity anchors remain stable. This suggests the Self-Model acts as a dynamical attractor constraining system evolution.
+
+These regimes arise from coherence-driven control rather than explicit rule-based logic.
+
+---
+
 ## 🚀 Future Work
 
 - A-Test Lite experimental evaluation  
